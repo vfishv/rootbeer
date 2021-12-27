@@ -11,7 +11,7 @@ ext{
     coroutinesVersion = '1.4.1'
     appcompatVersion = "1.4.0"
     materialDesignVersion = '1.4.0'
-    constraintlayoutVersion = "2.0.4"
+    constraintlayoutVersion = "2.1.2"
     timberVersion = '4.7.1'
     beerProgressViewVersion = '0.0.6'
     nineoldandroidsVersion = '2.4.0'
