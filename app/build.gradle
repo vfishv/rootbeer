@@ -6,6 +6,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion compileSdkVer
     buildToolsVersion buildToolsVer
+    namespace "com.scottyab.rootbeer.sample"
 
     defaultConfig {
         applicationId "com.scottyab.rootbeer.sample"

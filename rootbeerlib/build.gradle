@@ -5,6 +5,7 @@ android {
     compileSdkVersion compileSdkVer
     buildToolsVersion buildToolsVer
     ndkVersion ndkVersionVar
+    namespace "com.scottyab.rootbeer"
 
     defaultConfig {
         minSdkVersion minSdkVer
